@@ -1,0 +1,31 @@
+id,question,evidence,source_doc,qtype
+Q01,What is the minimum attendance needed to sit the end-semester exam?,minimum attendance of 75 percent,attendance_policy.md,lexical
+Q02,How much do I pay to get a shortage of attendance condoned?,condonation fee of Rs 500 per course,attendance_policy.md,lexical
+Q03,What happens if I come to class 12 minutes late?,arriving after 10 minutes are marked absent,attendance_policy.md,paraphrase
+Q04,How many days of on-duty leave can I get for representing the college?,up to a maximum of 15 days per semester,attendance_policy.md,paraphrase
+Q05,Can I wear a smartwatch during an exam?,Mobile phones and smartwatches are prohibited in the examination hall,examination_rules.md,lexical
+Q06,How long do I have to ask for my answer sheet to be rechecked?,within 5 working days of the declaration of results,examination_rules.md,paraphrase
+Q07,What is the maximum grade I can get in a supplementary exam?,is capped at B,examination_rules.md,lexical
+Q08,How are the 40 internal marks distributed?,two mid-semester tests of 15 marks each,examination_rules.md,lexical
+Q09,What score is needed to pass a course?,at least 45 percent overall and at least 40 percent in the end-semester examination,grading_and_promotion.md,lexical
+Q10,How many credits are needed to graduate?,successful completion of 96 credits,grading_and_promotion.md,lexical
+Q11,What happens if my CGPA stays under 5 for two semesters in a row?,placed on academic probation,grading_and_promotion.md,paraphrase
+Q12,How many courses can I retake to improve my grade?,improve the grade in up to 2 courses,grading_and_promotion.md,lexical
+Q13,What is the late fee for tuition payment?,late fee of Rs 100 per day,fees_and_refunds.md,lexical
+Q14,"If I drop out after three weeks, do I get any money back?",No refund is given for withdrawal after 15 days,fees_and_refunds.md,paraphrase
+Q15,When will I get my caution deposit back?,refundable within 30 days of graduation,fees_and_refunds.md,lexical
+Q16,Do siblings get a discount?,tuition waiver of 10 percent is given to the second sibling,fees_and_refunds.md,paraphrase
+Q17,What time do hostel gates close for freshers?,10:30 PM for first-year students,hostel_rules.md,paraphrase
+Q18,Can my parents stay overnight in my room when they visit?,overnight guests are not allowed under any circumstances,hostel_rules.md,paraphrase
+Q19,How much is the mess rebate if I go home for a week?,rebate of Rs 120 per day,hostel_rules.md,paraphrase
+Q20,Can I bring an induction stove to my room?,induction cooktops are prohibited in hostel rooms,hostel_rules.md,paraphrase
+Q21,How many books can a postgraduate student borrow?,up to 6 books at a time for a period of 21 days,library_rules.md,lexical
+Q22,What is the penalty if I lose a library book?,replacement cost of the book along with a processing fee of Rs 200,library_rules.md,lexical
+Q23,How do I read journals from home?,must obtain VPN credentials from the IT helpdesk,library_rules.md,paraphrase
+Q24,What is the maximum similarity index allowed in a project report?,similarity index must be below 15 percent,academic_integrity.md,lexical
+Q25,Am I allowed to use ChatGPT for my assignments?,only when the course instructor has explicitly permitted it,academic_integrity.md,paraphrase
+Q26,How long do I have to challenge a misconduct penalty?,within 10 working days of receiving the decision,academic_integrity.md,paraphrase
+Q27,What CGPA gives a half tuition waiver?,CGPA of 9.0 or above receive a 50 percent tuition waiver,scholarships.md,paraphrase
+Q28,What is the deadline for applying for a need-based waiver for the odd semester?,by 31 August for the odd semester,scholarships.md,lexical
+Q29,What is the minimum CGPA to sit for campus recruitment?,CGPA of at least 6.0 and no active backlogs,internships_and_placements.md,paraphrase
+Q30,How soon after the internship must I submit my report?,within 2 weeks of completing the internship,internships_and_placements.md,lexical
